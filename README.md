@@ -16,5 +16,5 @@ I'm an Informatic Sciences graduate from Córdoba - Argentina 🚀, and software
 
 
 ## You can find me 🌎:
-- 💼 [Linkedin] (https://www.linkedin.com/in/hugo-marcelo-farias/)
+- 💼 [Linkedin](https://www.linkedin.com/in/hugo-marcelo-farias/)
 
