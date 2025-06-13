@@ -4,12 +4,13 @@
 
 ```js
 const hmfarias = {
-  pronouns: "he" | "him",
-  code: ["JavaScript", "HTML", "CSS"],
-  tools: ["React", "NextJS", "NodeJS", "Jest", "Docker"],
-  passions: ["performance web", "web developer"],
-  
-}
+  pronouns: "he/him",
+  languages: ["JavaScript", "HTML", "CSS"],
+  frameworksAndTools: ["React", "Next.js", "Node.js", "Jest", "Docker"],
+  interests: ["Web performance", "Frontend development", "Clean architecture"],
+  currentlyLearning: ["TypeScript", "React Testing Library"],
+  githubProfile: "https://github.com/hmfarias"
+};
 ```
 
 
