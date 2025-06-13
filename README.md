@@ -12,9 +12,12 @@ const hmfarias = {
 }
 ```
 
+
 I'm an Informatic Sciences graduate from Córdoba - Argentina 🚀, and software developer who is passionate about learning. Some technologies I enjoy working with include HTML, CSS, JavaScript (ReactJS - NextJS), NodeJS (Express) and MongoDB. 
 
 
 ## You can find me 🌎:
 - 💼 [Linkedin](https://www.linkedin.com/in/hugo-marcelo-farias/)
 
+
+<!-- [![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmfarias)](https://github.com/hmfarias/github-readme-stats) -->
