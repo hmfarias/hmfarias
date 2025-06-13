@@ -1,6 +1,8 @@
-### Hi, I'm Marcelo 😀
+### Hi, I'm Marcelo :grinning:
 
-<img src="https://github.com/hmfarias/hmfarias/blob/main/Portada%20GitHub.png" alt="banner that says Marcelo Farias - software developer with cartoon illustration of Marcelo">
+<img src="https://github.com/hmfarias/hmfarias/blob/main/Portada%20GitHub.png" alt="Banner that says Marcelo Farias - Software Developer with cartoon illustration of Marcelo" />
+
+## About me in code
 
 ```js
 const hmfarias = {
@@ -13,9 +15,11 @@ const hmfarias = {
 };
 ```
 
-
-I'm an Informatic Sciences graduate from Córdoba - Argentina 🚀, and software developer who is passionate about learning. Some technologies I enjoy working with include HTML, CSS, JavaScript (ReactJS - NextJS), NodeJS (Express) and MongoDB. 
-
+I'm a graduate in Informatic Sciences from Córdoba, Argentina :argentina:, and a passionate software developer who is always learning and growing.
+I enjoy building performant and scalable web applications using modern technologies like:
+- Frontend: HTML, CSS, JavaScript, React.js, Next.js
+- Backend: Node.js (Express), MongoDB
+- Testing & DevOps: Jest, Docker
 
 ## You can find me 🌎:
 - 💼 [Linkedin](https://www.linkedin.com/in/hugo-marcelo-farias/)
