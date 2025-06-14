@@ -29,6 +29,7 @@ I enjoy building performant and scalable web applications using modern technolog
 
 <!-- | <a href="https://github.com/hmfarias/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hmfarias&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Marcelos's github stats" /></a> | <a href="https://github.com/hmfarias/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmfarias&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- | -->
+## Stats
 
 | <a href="https://github.com/hmfarias/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmfarias&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | 
