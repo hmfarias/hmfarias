@@ -7,7 +7,7 @@
 ```js
 const hmfarias = {
   pronouns: "he/him",
-  languages: ["JavaScript", "HTML", "CSS", python],
+  languages: ["JavaScript", "HTML", "CSS", "python"],
   frameworksAndTools: ["React", "Next.js", "Node.js", "Jest", "Docker"],
   interests: ["Web performance", "Frontend development", "Clean architecture"],
   currentlyLearning: ["TypeScript", "React Testing Library"],
