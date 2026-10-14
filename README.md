@@ -19,7 +19,6 @@ I'm a graduate in Informatic Sciences from Córdoba, Argentina :argentina:, and 
 I enjoy building performant and scalable web applications using modern technologies like:
 - Frontend: HTML, CSS, JavaScript, React.js, Next.js
 - Backend: Node.js (Express), MongoDB
-- Testing & DevOps: Jest, Docker
 
 ## You can find me 🌎:
 - 💼 [Linkedin](https://www.linkedin.com/in/hugo-marcelo-farias/)
