@@ -1,7 +1,7 @@
 ### Hi, I'm Marcelo :grinning:
 
-<img src="https://github.com/hmfarias/hmfarias/blob/main/Portada%20GitHub.png" alt="Banner that says Marcelo Farias - Software Developer with cartoon illustration of Marcelo" />
-
+<img src="https://github.com/hmfarias/hmfarias/blob/main/banner.svg" alt="Banner that says Marcelo Farias - Software Developer with cartoon illustration of Marcelo" />
+https://github.com/hmfarias/hmfarias/blob/main/banner.svg
 ## About me in code
 
 ```js
